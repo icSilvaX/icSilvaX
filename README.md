@@ -27,9 +27,9 @@ Sou apaixonado(a) por **ciência, tecnologia e inovações digitais**.
 ---
 
 ## 📫 Contato
-- **Email:** seuemail@exemplo.com
-- **GitHub:** [github.com/Silva ](https://github.com/enavIX)
-- **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+- **Email:** ( #### )
+- **GitHub:** [github.com/Silva ](https://github.com/icSilvaX)
+- **LinkedIn:** [linkedin.com/in/seu-perfil](https://github.com/icSilvaX)
 
 ---
 
