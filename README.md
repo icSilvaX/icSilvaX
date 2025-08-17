@@ -21,8 +21,10 @@ Sou apaixonado(a) por **ciência, tecnologia e inovações digitais**.
 ---
 
 ## 📂 Projetos
-- **[Ciência e Tecnologia](./README.md)** – Documentos, estudos e guias sobre ciência e tecnologia.
-- **Inovações One** – Plataforma de ideias e soluções digitais.
+- **[Weather Now](https://github.com/iCsilvaX/weather-now)** – App simples de previsão do tempo usando API do OpenWeather.
+- **[Ciência e Tecnologia](https://github.com/iCsilvaX/ciencia-tecnologia)** – Documentos, estudos e guias sobre ciência e tecnologia.
+- **[Inovações One](https://github.com/iCsilvaX/inovacoes-one)** – Plataforma de ideias e soluções digitais.
+
 
 ---
 
